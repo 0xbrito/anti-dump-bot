@@ -3,9 +3,6 @@
 
 A front-running bot that protects you from being dumped in some token you have exposure to!
 
-*Idea taken from [0xngmi's tweet](https://twitter.com/0xngmi/status/1447003709532213248)*
-
-
 ## Description
 
 Given a coin and a set of rules, this bot will liquidate your position if it detects a transaction (or more) in the mempool which could likely lead to price's crash.
